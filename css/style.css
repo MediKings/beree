@@ -8756,7 +8756,7 @@ h1, h2, h3, h4, h5,
   .services-2 .text {
     margin-left: 2em; }
   .services-2:nth-child(1) {
-    background: rgba(0, 0, 0, 0.05); }
+    background: #00771c; }
   .services-2:nth-child(2) {
     background: #ffff00; }
     .services-2:nth-child(2) .icon:after {
@@ -8764,15 +8764,13 @@ h1, h2, h3, h4, h5,
     .services-2:nth-child(2) .icon:before {
       background: #fff !important; }
   .services-2:nth-child(3) {
-    background: black; }
+    background: rgba(0, 0, 0, 0.05); }
     .services-2:nth-child(3) .icon:before {
       background: rgba(255, 255, 255, 0.1) !important; }
     .services-2:nth-child(3) .icon span {
       color: #ffff00 !important; }
     .services-2:nth-child(3) .text {
       color: rgba(255, 255, 255, 0.8); }
-      .services-2:nth-child(3) .text h3 {
-        color: #fff; }
 
 .ftco-intro {
   padding: 8em 0;
